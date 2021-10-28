@@ -1,0 +1,49 @@
+body{
+    background-color: #aaa;
+    font-family: Glory;
+    color: #082032;
+
+   
+}
+
+@font-face {
+    font-family: Glory; src: url('Glory-Regular.ttf');
+}
+
+h1{
+    color: #000;
+}
+
+.bg-bluish{
+    background-color: #aaa;
+    opacity: 1.0;
+}
+
+
+.title-icon, .title-txt { 
+    display: inline;
+}
+
+.title-txt {
+    vertical-align: baseline;
+}
+
+
+.border-bluish{
+    border-color: #aaa;
+    
+}
+
+.project-logo{
+    border-radius: 25px;
+}
+
+.no-bullet-ul{
+    list-style: none;
+    padding-left: 0;
+}
+
+hr{
+    width:60%;
+    text-align:center;
+}
